@@ -26,3 +26,22 @@ Dive into the dashboards showcased below. Every project has a dedicated README t
 
 [**View Full Project 1 Details (README)**](/Data_jobs_v1/README.md)
 
+## Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
+
+![Data Jobs Dashboard 2.0](/images/project_2_page1.png)
+
+**Key Power BI Skills Used**
+- DAX Measures – Median salary calculations, job percent, and dynamic metrics responding to slicers
+- Power Query – Data cleansing, skill parsing, and geospatial preparation
+- Visualizations – KPI cards, bar charts, Azure Maps integration, and side-by-side salary comparisons
+- Interactivity – Global slicers, cross-filtering, bookmarks, and drill-through setup
+- Geospatial – Continent-level mapping with Bing Maps integration
+- Performance – Optimized data model and DAX for 479K records with fast slicer response
+- Dashboard Design – Single-page layout with logical grouping and responsive scaling
+
+[**View Full Project 2 Details (README)**](/Data_jobs_v2/README.md)
+
+
+
+
+
